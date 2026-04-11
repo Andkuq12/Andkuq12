@@ -16,7 +16,7 @@
 - 💬 Ask me about: 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Coffee-6F4E37?style=flat&logo=buymeacoffee&logoColor=white" />
+  
 - 📫 How to reach me: <a href="mailto:andkuq@gmail.com"><img src="https://img.shields.io/badge/-andkuq@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 - ☕ Buy me a coffee: <a href="https://saweria.co/Grandkuq"><img src="https://img.shields.io/badge/-Saweria-FFC0CB?style=flat&logo=buymeacoffee&logoColor=black" /></a>
 
