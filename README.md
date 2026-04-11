@@ -8,7 +8,6 @@
   <b>Building cool stuff and breaking things occasionally.</b>
 </p>
 
-<a href="https://grandfuscator.my.id"><img src="https://img.shields.io/badge/GrandFuscator-FF6B6B?style=flat&logo=googlechrome&logoColor=white" /></a>
 - 📖 learning: 
   <img src="https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
@@ -46,3 +45,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Andkuq12&icon=2&color=1)](https://visitcount.itsvg.in)
+<a href="https://grandfuscator.my.id"><img src="https://img.shields.io/badge/GrandFuscator-FF6B6B?style=flat&logo=googlechrome&logoColor=white" /></a>
