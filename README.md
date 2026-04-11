@@ -8,7 +8,7 @@
   <b>Building cool stuff and breaking things occasionally.</b>
 </p>
 
-- Project: <a href="https://grandfuscator.my.id"><img src="https://img.shields.io/badge/GrandFuscator-FF6B6B?style=flat&logo=googlechrome&logoColor=white" /></a>
+<a href="https://grandfuscator.my.id"><img src="https://img.shields.io/badge/GrandFuscator-FF6B6B?style=flat&logo=googlechrome&logoColor=white" /></a>
 - 📖 learning: 
   <img src="https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
