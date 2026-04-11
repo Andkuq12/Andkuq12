@@ -9,8 +9,7 @@
 </p>
 
 - 📖 learning: 
-  <img src="https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
 - 💬 Ask me about: 
