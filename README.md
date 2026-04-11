@@ -36,16 +36,13 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="./stats.svg"/>
-  <img height="180em" src="./langs.svg"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Andkuq12&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Andkuq12&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andkuq12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="./trophy.svg"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Andkuq12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-⭐️ *From [Grandkuq](https://github.com/Andkuq12)*
+[![](https://visitcount.itsvg.in/api?id=Andkuq12&icon=2&color=1)](https://visitcount.itsvg.in)
