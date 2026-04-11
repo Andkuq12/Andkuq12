@@ -34,7 +34,7 @@
 
 **Tools & Environment**  
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Acode](https://img.shields.io/badge/-Acode-FF6C37?style=flat-square&logo=android&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
 <p align="center">
