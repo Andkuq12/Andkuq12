@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white" />
-- 💬 Ask me about: 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   
 - 📫 How to reach me: <a href="mailto:andkuq@gmail.com"><img src="https://img.shields.io/badge/-andkuq@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 - ☕ Buy me a coffee: <a href="https://saweria.co/Grandkuq"><img src="https://img.shields.io/badge/-Saweria-FFC0CB?style=flat&logo=buymeacoffee&logoColor=black" /></a>
