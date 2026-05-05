@@ -34,7 +34,7 @@ The Key Page system lets you protect your Lua scripts by requiring users to hold
 - A **private configuration page** where you manage all settings and keys
 - A **REST API endpoint** your script calls to validate a key in real-time
 
-All key data is stored privately in Firebase — only you can see your own keys.
+All key data is stored privately in database — only you can see your own keys.
 
 ---
 
@@ -56,7 +56,7 @@ System creates a GRAND-KEY-XXXXXXXX  (valid for X hours, set by you)
 User pastes the key into your script
         │
         ▼
-Script calls the API → API checks Firebase → returns { valid: true/false }
+Script calls the API → API checks → returns { valid: true/false }
         │
         ▼
 Script continues or stops based on the result
@@ -418,7 +418,7 @@ A: The API returns `{ "valid": false, "message": "Key has expired" }`. Your scri
 A: With the Free tier, keys are not tied to a specific device or account, so technically yes. If you want to prevent sharing, upgrade to **VVIP** and enable the Discord ID validation feature, which ties each key to a specific Discord account.
 
 **Q: Is the key data secure? Can anyone else see my keys?**  
-A: Your keys are stored in a private Firebase path (`free_key_pages/yourusername/keys`). The panel Owner can only see the count of your keys, not their actual values. Nobody else has read access to your key data.
+A: Your keys are stored in a private databse path. The panel Owner can only see the count of your keys, not their actual values. Nobody else has read access to your key data.
 
 **Q: What if a user loses their key?**  
 A: The public page saves key progress per browser session. If a user already generated a valid key that hasn't expired, the page will show it again when they click "Generate". If the session is lost, they need to complete the tasks again.
