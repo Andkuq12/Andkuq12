@@ -3,7 +3,7 @@
 > Protect your Lua scripts with a key validation.
 
 ---
-
+[Full Documentation](https://github.com/Andkuq12/Andkuq12/blob/main/documentation.md)
 
 ## 📦 Requirements
 
